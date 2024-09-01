@@ -1,2 +1,4 @@
 #The Inventory Management System is a Node.js-based backend application designed to manage inventory items in a store or warehouse. It allows users to add new items, update their quantities, remove items, and search by name or category. The system also generates detailed inventory reports. The project is built using modular ES6 syntax and demonstrates key features of JavaScript classes and Node.js.
+
+
 #The TutorialsNinja - Shopping Cart project focuses on testing the Shopping Cart functionality of a demo e-commerce website built with OpenCart. The project involves evaluating the website's functionality, performance, and usability by verifying links, testing search functionality, checking information accuracy, and assessing the overall user experience. This testing ensures that the Shopping Cart feature works correctly and provides a seamless user experience.
