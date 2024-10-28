@@ -1,4 +1,4 @@
-#Inventory Management System
+# Inventory Management System
 
  Overview
 The Inventory Management System is a backend application built with Node.js to manage inventory items for a store or warehouse. It allows users to perform essential inventory operations such as adding new items, updating quantities, deleting items, and searching for items by name or category. The system also provides detailed inventory reports, enabling better stock control and decision-making.
