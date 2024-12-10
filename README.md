@@ -13,7 +13,7 @@ The Inventory Management System is a backend application built with Node.js to m
 - JavaScript ES6+ for modular syntax and class-based architecture
 
  Project Structure
-
+```
 InventoryManagementSystem/
 ├── controllers
 │   ├── itemController.js           # Handles inventory CRUD operations
@@ -22,7 +22,7 @@ InventoryManagementSystem/
 ├── routes
 │   ├── inventoryRoutes.js          # API routes for inventory operations
 └── server.js                       # Main server file
-
+```
 
  Key Concepts
 - Modular ES6 Syntax: Organized code with modules for maintainability.
