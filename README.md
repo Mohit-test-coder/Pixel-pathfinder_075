@@ -79,7 +79,7 @@ The TutorialsNinja - Shopping Cart project focuses on testing the Shopping Cart 
 - OpenCart Demo Site as the testing environment
 
  Project Structure
-
+```
 ShoppingCartTesting/
 ├── cypress
 │   ├── integration
@@ -89,7 +89,7 @@ ShoppingCartTesting/
 │       │   └── HomePage.js          # Home page actions and elements
 │       │   └── CartPage.js          # Shopping cart actions and elements
 └── cypress.config.js                # Cypress configuration file
-
+```
 
  Test Scenarios
 1. Complete Shopping Workflow: 
